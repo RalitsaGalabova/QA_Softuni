@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B3D5B2-C9A9-4C50-B9C8-6EE41B23D809}|WorkingWithWindows\\WorkingWithWindows.csproj|c:\\users\\rally\\desktop\\qa-softuni\\front-end test automation\\08.exercise selenium webdriver wait\\exercisewaits\\workingwithwindows\\switchingwindowstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B3D5B2-C9A9-4C50-B9C8-6EE41B23D809}|WorkingWithWindows\\WorkingWithWindows.csproj|solutionrelative:workingwithwindows\\switchingwindowstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77026296-A413-4486-BE8A-D4368488B9F3}|WorkingWithIFrames\\WorkingWithIFrames.csproj|c:\\users\\rally\\desktop\\qa-softuni\\front-end test automation\\08.exercise selenium webdriver wait\\exercisewaits\\workingwithiframes\\iframetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77026296-A413-4486-BE8A-D4368488B9F3}|WorkingWithIFrames\\WorkingWithIFrames.csproj|solutionrelative:workingwithiframes\\iframetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E3FEE1-6126-466F-9262-4F59CEEE3EAC}|WorkingWithAlerts\\WorkingWithAlerts.csproj|c:\\users\\rally\\desktop\\qa-softuni\\front-end test automation\\08.exercise selenium webdriver wait\\exercisewaits\\workingwithalerts\\alerttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E3FEE1-6126-466F-9262-4F59CEEE3EAC}|WorkingWithAlerts\\WorkingWithAlerts.csproj|solutionrelative:workingwithalerts\\alerttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5381E306-1BBC-49FF-B516-27C5735EFACC}|SearchWithImlicitWait\\SearchWithImlicitWait.csproj|c:\\users\\rally\\desktop\\qa-softuni\\front-end test automation\\08.exercise selenium webdriver wait\\exercisewaits\\searchwithimlicitwait\\testsearchproductimplicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5381E306-1BBC-49FF-B516-27C5735EFACC}|SearchWithImlicitWait\\SearchWithImlicitWait.csproj|solutionrelative:searchwithimlicitwait\\testsearchproductimplicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D098AB-E667-40B1-8DDE-94345F8B653B}|SearchWithExplicitWait\\SearchWithExplicitWait.csproj|c:\\users\\rally\\desktop\\qa-softuni\\front-end test automation\\08.exercise selenium webdriver wait\\exercisewaits\\searchwithexplicitwait\\testsearchproductexplicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D098AB-E667-40B1-8DDE-94345F8B653B}|SearchWithExplicitWait\\SearchWithExplicitWait.csproj|solutionrelative:searchwithexplicitwait\\testsearchproductexplicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchingWindowsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\WorkingWithWindows\\SwitchingWindowsTests.cs",
+              "RelativeDocumentMoniker": "WorkingWithWindows\\SwitchingWindowsTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\WorkingWithWindows\\SwitchingWindowsTests.cs",
+              "RelativeToolTip": "WorkingWithWindows\\SwitchingWindowsTests.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:47:24.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFrameTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\WorkingWithIFrames\\IFrameTests.cs",
+              "RelativeDocumentMoniker": "WorkingWithIFrames\\IFrameTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\WorkingWithIFrames\\IFrameTests.cs",
+              "RelativeToolTip": "WorkingWithIFrames\\IFrameTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:40:47.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlertTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\WorkingWithAlerts\\AlertTests.cs",
+              "RelativeDocumentMoniker": "WorkingWithAlerts\\AlertTests.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\WorkingWithAlerts\\AlertTests.cs",
+              "RelativeToolTip": "WorkingWithAlerts\\AlertTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:28:17.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestSearchProductImplicit.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\SearchWithImlicitWait\\TestSearchProductImplicit.cs",
+              "RelativeDocumentMoniker": "SearchWithImlicitWait\\TestSearchProductImplicit.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\SearchWithImlicitWait\\TestSearchProductImplicit.cs",
+              "RelativeToolTip": "SearchWithImlicitWait\\TestSearchProductImplicit.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:18:36.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestSearchProductExplicit.cs",
+              "DocumentMoniker": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\SearchWithExplicitWait\\TestSearchProductExplicit.cs",
+              "RelativeDocumentMoniker": "SearchWithExplicitWait\\TestSearchProductExplicit.cs",
+              "ToolTip": "C:\\Users\\Rally\\Desktop\\QA-Softuni\\Front-End Test Automation\\08.Exercise Selenium WebDriver Wait\\ExerciseWaits\\SearchWithExplicitWait\\TestSearchProductExplicit.cs",
+              "RelativeToolTip": "SearchWithExplicitWait\\TestSearchProductExplicit.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:17:25.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
