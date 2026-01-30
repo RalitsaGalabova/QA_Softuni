@@ -1,0 +1,15 @@
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\bin\Debug\net8.0\NotificationApp.exe
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\bin\Debug\net8.0\NotificationApp.deps.json
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\bin\Debug\net8.0\NotificationApp.runtimeconfig.json
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\bin\Debug\net8.0\NotificationApp.dll
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\bin\Debug\net8.0\NotificationApp.pdb
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\NotificationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\NotificationApp.AssemblyInfoInputs.cache
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\NotificationApp.AssemblyInfo.cs
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\NotificationApp.csproj.CoreCompileInputs.cache
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\NotificationApp.sourcelink.json
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\NotificationApp.dll
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\refint\NotificationApp.dll
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\NotificationApp.pdb
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\NotificationApp.genruntimeconfig.cache
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\NotificatinApplication\NotificationApp\obj\Debug\net8.0\ref\NotificationApp.dll
