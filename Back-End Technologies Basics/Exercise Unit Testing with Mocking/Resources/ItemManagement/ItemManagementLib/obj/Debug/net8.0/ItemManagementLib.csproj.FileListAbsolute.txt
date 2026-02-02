@@ -1,0 +1,13 @@
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\bin\Debug\net8.0\ItemManagementLib.deps.json
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\bin\Debug\net8.0\ItemManagementLib.dll
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\bin\Debug\net8.0\ItemManagementLib.pdb
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\ItemManagementLib.csproj.AssemblyReference.cache
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\ItemManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\ItemManagementLib.AssemblyInfoInputs.cache
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\ItemManagementLib.AssemblyInfo.cs
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\ItemManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\ItemManagementLib.sourcelink.json
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\ItemManagementLib.dll
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\refint\ItemManagementLib.dll
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\ItemManagementLib.pdb
+C:\Users\Rally\Desktop\QA-Softuni\Back-End Technologies Basics\Exercise Unit Testing with Mocking\Resources\ItemManagement\ItemManagementLib\obj\Debug\net8.0\ref\ItemManagementLib.dll
